@@ -1,4 +1,4 @@
-package _22_10_21.dao;
+package com.line.dao;
 
 import org.springframework.beans.factory.annotation.Configurable;
 import org.springframework.context.annotation.Bean;

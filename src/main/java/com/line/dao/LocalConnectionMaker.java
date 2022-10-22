@@ -1,4 +1,4 @@
-package _22_10_21.dao;
+package com.line.dao;
 
 import java.sql.Connection;
 import java.sql.SQLException;
